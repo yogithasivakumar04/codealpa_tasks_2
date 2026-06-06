@@ -33,4 +33,3 @@ CodeAlpha C Programming Internship
 
 ---
 
-Task 2: Basic Arithmetic Operations Calculator
