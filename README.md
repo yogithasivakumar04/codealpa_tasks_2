@@ -1,4 +1,4 @@
-# codealpa_tasks_1
+# codealpa_tasks_2
 Basic Arithmetic Calculator in C
 
 Project Description
