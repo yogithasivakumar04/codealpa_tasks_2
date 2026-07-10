@@ -1,35 +1,35 @@
-# codealpa_tasks_2
 Basic Arithmetic Calculator in C
 
-Project Description
+About Project
 
-This project implements a simple calculator using C programming and switch-case statements.
+This project is a basic arithmetic calculator developed using the C programming language. It performs simple mathematical operations like addition, subtraction, multiplication, and division.
 
 Features
 
-- Addition
-- Subtraction
-- Multiplication
-- Division
+- Addition of two numbers
+- Subtraction of two numbers
+- Multiplication of two numbers
+- Division of two numbers
+- User-friendly menu-based program
 
-Language Used
+Technologies Used
 
-- C Programming
+- C Programming Language
 
-Concepts Used
+How to Run
 
-- Switch Case
-- User Input
-- Arithmetic Operators
-- Conditional Statements
+1. Download or clone this repository
+2. Open the C file using a C compiler
+3. Compile the program
+4. Run the executable file
+
+Learning Outcomes
+
+- Learned basic C programming concepts
+- Improved logical thinking and problem-solving skills
+- Practiced conditional statements and user input handling
 
 Author
 
 Yogitha
-
-Internship
-
-CodeAlpha C Programming Internship
-
----
 
